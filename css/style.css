@@ -155,7 +155,8 @@ form, fieldset{
 	float:right;
 	width:244px;
 	padding:12px 14px;
-	background:url(images/bg-main.gif) repeat-y 100% 0;
+	/*background:url(images/bg-main.gif) repeat-y 100% 0;*/
+	background-color: #e6e6e6;
 }
 #sidebar-right h3 {
 	color:#333;
